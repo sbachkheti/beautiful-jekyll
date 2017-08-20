@@ -37,6 +37,7 @@ avatar: "/img/universe-backgrounds1 Cropped.jpg"
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
 # title-img: /path/to/image
+title-img: "/img/Earth'sMagnetic01 Cropped.jpg"
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
