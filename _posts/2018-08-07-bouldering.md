@@ -1,8 +1,8 @@
 ---
 layout: post
 published: true
-title: Bouldering
+title: Pool Diving
 ---
-## Bouldering
+## Diving
 
-Starting my journey on bouldering.
+Starting diving at Royal Commonwealth Pool, Edinburgh.
