@@ -25,11 +25,11 @@ description: Earth Science
 navbar-links:
   About Me: "aboutme"
   Research: "Research"
-  Blog : "Blog"
+  Personal : "Blog"
   #Resources:
-    - Receiver Function Analysis: "https://github.com/sbachkheti/Receiver-function-Analysis"
-    - Bayesian Inference: "https://github.com/sbachkheti/Bayesian-Inference-to-segment-a-well-log"
-    - Wavelet Extraction: "https://github.com/sbachkheti/synthetic-seismogram-generation-and-Wavelet-Extraction"
+    #- Receiver Function Analysis: "https://github.com/sbachkheti/Receiver-function-Analysis"
+    #- Bayesian Inference: "https://github.com/sbachkheti/Bayesian-Inference-to-segment-a-well-log"
+    #- Wavelet Extraction: "https://github.com/sbachkheti/synthetic-seismogram-generation-and-Wavelet-Extraction"
   #Cogitation: "http://sbachkheti.github.io/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
