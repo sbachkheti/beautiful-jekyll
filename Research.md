@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-subtitle: PhD student, Edinburgh Time Lapse Project
+subtitle: 4D Seismic, geomechanics, inversion
 ---
 
 ### Who am I?
