@@ -24,6 +24,7 @@ description: Earth Science
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Research: "Research"
   Resources:
     - Receiver Function Analysis: "https://github.com/sbachkheti/Receiver-function-Analysis"
     - Bayesian Inference: "https://github.com/sbachkheti/Bayesian-Inference-to-segment-a-well-log"
