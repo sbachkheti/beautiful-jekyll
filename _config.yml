@@ -25,7 +25,8 @@ description: Earth Science
 navbar-links:
   About Me: "aboutme"
   Research: "Research"
-  Resources:
+  Blog : "Blog"
+  #Resources:
     - Receiver Function Analysis: "https://github.com/sbachkheti/Receiver-function-Analysis"
     - Bayesian Inference: "https://github.com/sbachkheti/Bayesian-Inference-to-segment-a-well-log"
     - Wavelet Extraction: "https://github.com/sbachkheti/synthetic-seismogram-generation-and-Wavelet-Extraction"
