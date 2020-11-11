@@ -1,11 +1,10 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Samarth Bachkheti
+subtitle: PhD student, Edinburgh Time Lapse Project
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
+Hi, I am Samarth (Pronounced some-earth). 
 - I rock a great mustache
 - I'm extremely loyal to my family
 
